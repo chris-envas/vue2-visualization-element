@@ -1,24 +1,22 @@
-# vue2-visualization-element
+## 使用Vue+Echart构建的图表应用
 
-## Project setup
-```
-yarn install
-```
+当前使用到的技术栈
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+- Vue2
+- Echarts5
+- vue-echarts
+- v-charts
 
-### Compiles and minifies for production
-```
-yarn build
-```
+概览
 
-### Lints and fixes files
-```
-yarn lint
-```
+1）
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[![sg209U.png](https://s3.ax1x.com/2021/01/19/sg209U.png)](https://imgchr.com/i/sg209U)
+
+2）
+
+[![sgRCbn.png](https://s3.ax1x.com/2021/01/19/sgRCbn.png)](https://imgchr.com/i/sgRCbn)
+
+
+
+后续再修改Vue3版本，目前vue-echarts、v-charts与Vue3存在不兼容的情况！
